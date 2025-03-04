@@ -1,5 +1,5 @@
 # Projeto_ITextual
-ITextual é um programa de anotações simples e eficiente, permitindo a organização por categorias e classes. Criado inicialmente para ser usado em sistemas Linux sem interface gráfica, o projeto visa expansões futuras para web, Android e sincronização entre dispositivos.
+ITextual é um programa de anotações simples e eficiente, permitindo a organização por categorias e classes. Criado inicialmente totalmente em python para ser usado sem interface gráfica , o projeto visa expansões futuras para web, Android e sincronização entre dispositivos.
 
 # Recursos básicos
 - Criação de notas personalizadas.
