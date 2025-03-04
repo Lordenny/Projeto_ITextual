@@ -50,32 +50,32 @@ python -m itextual.main
 
 # Futuras Implementações
 
-1. Implementar Expiração para Notas Efêmeras
-Criar um sistema para deletar automaticamente notas após X dias.
-Poder configurar manualmente o tempo de expiração.
+1. **Implementar Expiração para Notas Efêmeras**
+- Criar um sistema para deletar automaticamente notas após X dias.
+- Poder configurar manualmente o tempo de expiração.
 
-2. Indexação e Busca
-Criar um mecanismo de busca por palavra-chave, data ou categoria.
-Implementar uma CLI para facilitar o acesso às notas via terminal.
+2. **Indexação e Busca**
+- Criar um mecanismo de busca por palavra-chave, data ou categoria.
+- Implementar uma CLI para facilitar o acesso às notas via terminal.
 
-3. Histórico de Alterações para Notas Sólidas
-Armazenar versões anteriores de uma nota (tipo git para textos).
+3. **Histórico de Alterações para Notas Sólidas**
+- Armazenar versões anteriores de uma nota (tipo git para textos).
 
-4. Exportação e Backup
-Opção de exportar notas para .md, .txt ou .json.
-Criar backups automáticos das notas históricas.
+4. **Exportação e Backup**
+- Opção de exportar notas para .md, .txt ou .json.
+- Criar backups automáticos das notas históricas.
 
-5. Integração com Notificações
-Notificações para lembrar de notas efêmeras antes de expirarem.
+5. **Integração com Notificações**
+- Notificações para lembrar de notas efêmeras antes de expirarem.
 
-6. Modo de Sincronização Local
-Criar uma funcionalidade para sincronizar notas entre PCs via Wi-Fi ou servidor local.
+6. **Modo de Sincronização Local**
+- Criar uma funcionalidade para sincronizar notas entre PCs via Wi-Fi ou servidor local.
 
-7. Interface Gráfica
-Um pequeno app em PyQt ou Tkinter para gerenciar as notas visualmente.
+7. **Interface Gráfica**
+- Um pequeno app em PyQt ou Tkinter para gerenciar as notas visualmente.
 
-8. Criptografia e bloqueio
-Sistema de criptografia para notas históricas e bloqueio de edição
+8. **Criptografia e bloqueio**
+- Sistema de criptografia para notas históricas e bloqueio de edição
 
 # Licença
 Este projeto está licenciado sob a MIT License.
