@@ -76,6 +76,3 @@ python -m itextual.main
 
 8. **Criptografia e bloqueio**
 - Sistema de criptografia para notas históricas e bloqueio de edição
-
-# Licença
-Este projeto está licenciado sob a MIT License.
