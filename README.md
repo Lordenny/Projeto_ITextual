@@ -30,7 +30,7 @@ ProjetoITextual/
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/ITextual.git
+git clone https://github.com/Lordenny/ITextual.git
 cd ITextual
 ```
 2. Certifique-se de que o Python 3 está instalado.
