@@ -1,4 +1,4 @@
-# ProjetoI_Textual
+# Projeto_ITextual
 ITextual é um programa de anotações simples e eficiente, permitindo a organização por categorias e classes. Criado inicialmente para ser usado em sistemas Linux sem interface gráfica, o projeto visa expansões futuras para web, Android e sincronização entre dispositivos.
 
 # Recursos básicos
@@ -30,7 +30,7 @@ ProjetoITextual/
 
 1. Clone o repositório:
 ```
-git clone https://github.com/Lordenny/ITextual.git
+git clone https://github.com/Lordenny/Projeto_Itextual
 cd ITextual
 ```
 2. Certifique-se de que o Python 3 está instalado.
