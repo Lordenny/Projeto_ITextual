@@ -1,5 +1,5 @@
-# Metodologia das Categorias de Notas
-No ITextual, as notas são organizadas em três classes principais, de acordo com sua natureza e propósito. Essa abordagem ajuda a manter as anotações organizadas e acessíveis conforme sua relevância e permanência.
+# Metodologia ESH
+No ITextual, criei a metodologia de ESH que são iniciais das classes principais: efêmero, sólido e histórico. Funcionando de acordo com sua natureza e propósito, essa abordagem ajuda a manter as anotações organizadas e acessíveis conforme sua relevância e permanência.
 
 ## Notas Efêmeras
 ### Características:
