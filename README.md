@@ -3,7 +3,7 @@ ITextual é um programa de anotações simples e eficiente, permitindo a organiz
 
 # Recursos básicos
 - Criação de notas personalizadas.
-- Sistema de classificação na [Metodologia (ESH)][metodologia.md]
+- Sistema de classificação na [Metodologia (ESH)](metodologia.md)
 - Armazenamento baseado em arquivos de texto por categoria ( personalizável)
 - Suporte a Markdown ( em construção!)
 
